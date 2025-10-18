@@ -4,9 +4,9 @@
 #import "/src/lib.typ" as stack-pointer
 // #import "@preview/stack-pointer:0.1.0"
 
-#import "@preview/touying:0.5.5": *
+#import "@preview/touying:0.6.1": *
 #import themes.simple: *
-#import "@preview/codly:1.2.0"
+#import "@preview/codly:1.3.0"
 
 #show: simple-theme.with(aspect-ratio: "16-9")
 #show: codly.codly-init.with()

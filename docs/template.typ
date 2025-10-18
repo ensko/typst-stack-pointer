@@ -2,7 +2,7 @@
 // licensed under the MIT license
 
 #import "@preview/tidy:0.4.1"
-#import "@preview/codly:1.2.0"
+#import "@preview/codly:1.3.0"
 
 #import "man-style.typ"
 
